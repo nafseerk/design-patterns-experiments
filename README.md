@@ -5,3 +5,4 @@ examples of design patterns
 
 - [x] Factory
 - [x] Builder
+- [x] Proxy
