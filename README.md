@@ -8,3 +8,4 @@ examples of design patterns
 - [x] Proxy
 - [x] Adapter
 - [x] Iterator
+- [x] Visitor
