@@ -7,3 +7,4 @@ examples of design patterns
 - [x] Builder
 - [x] Proxy
 - [x] Adapter
+- [x] Iterator
