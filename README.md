@@ -9,3 +9,4 @@ examples of design patterns
 - [x] Adapter
 - [x] Iterator
 - [x] Visitor
+- [x] Prototype
