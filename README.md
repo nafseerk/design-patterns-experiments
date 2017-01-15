@@ -10,3 +10,4 @@ examples of design patterns
 - [x] Iterator
 - [x] Visitor
 - [x] Prototype
+- [x] Chain of Responsibility
