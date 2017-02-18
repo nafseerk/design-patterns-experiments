@@ -1,4 +1,4 @@
-package chainOfResponsibility;
+package java.behavioural.chainOfResponsibility;
 
 public class Dollar10Dispenser implements DispenseChain {
 

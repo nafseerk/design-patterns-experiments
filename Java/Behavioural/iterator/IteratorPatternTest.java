@@ -1,4 +1,4 @@
-package iterator;
+package java.behavioural.iterator;
 
 
 public class IteratorPatternTest {

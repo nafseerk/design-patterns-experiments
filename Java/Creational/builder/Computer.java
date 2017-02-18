@@ -1,4 +1,4 @@
-package builder;
+package java.creational.builder;
 
 public class Computer {
 

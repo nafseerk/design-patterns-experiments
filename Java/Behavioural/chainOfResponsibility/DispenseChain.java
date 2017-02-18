@@ -1,4 +1,4 @@
-package chainOfResponsibility;
+package java.behavioural.chainOfResponsibility;
 
 public interface DispenseChain {
 

@@ -1,4 +1,4 @@
-package factory;
+package java.creational.factory;
 
 import factory.PC;
 import factory.Server;

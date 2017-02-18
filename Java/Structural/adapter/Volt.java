@@ -1,4 +1,4 @@
-package adapter;
+package java.structural.adapter;
 
 public class Volt {
 

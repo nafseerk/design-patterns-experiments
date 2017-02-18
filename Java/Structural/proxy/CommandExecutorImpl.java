@@ -1,4 +1,4 @@
-package proxy;
+package java.structural.proxy;
 
 import java.io.IOException;
 

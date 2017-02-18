@@ -1,4 +1,4 @@
-package visitor;
+package java.behavioural.visitor;
 
 public class Book implements ItemElement {
 

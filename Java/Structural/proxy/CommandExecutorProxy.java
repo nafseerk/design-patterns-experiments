@@ -1,4 +1,4 @@
-package proxy;
+package java.structural.proxy;
 
 public class CommandExecutorProxy implements CommandExecutor {
 

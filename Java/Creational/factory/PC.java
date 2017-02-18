@@ -1,4 +1,4 @@
-package factory;
+package java.creational.factory;
 
 public class PC extends Computer {
 

@@ -1,4 +1,4 @@
-package adapter;
+package java.structural.adapter;
 
 public class SocketClassAdapterImpl extends Socket implements SocketAdapter {
 // I am saying "I am Socket"
